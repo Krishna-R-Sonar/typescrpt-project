@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Combo",
+    "price": 10.99,
+    "imgUrl": "/images/webdevpic1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "shirt",
+    "price": 1199,
+    "imgUrl": "/images/webdevpic2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Women shoes",
+    "price": 1.05,
+    "imgUrl": "/images/webdevpic3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Women Boots",
+    "price": 14000,
+    "imgUrl": "/images/webdevpic4.jpg"
+  }
+]
